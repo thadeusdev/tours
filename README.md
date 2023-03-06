@@ -1,3 +1,3 @@
 # Tours
 ## user experience
-![UI](/src/img/app.png "Optional title")
+![UI](/src/img/tours.png "Optional title")
